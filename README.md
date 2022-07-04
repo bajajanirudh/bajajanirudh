@@ -8,7 +8,7 @@
 
 ### Hey there, I'm Anirudh Bajaj 
 
-<img src="https://github.com/bhagirath77/bhagirath77/blob/main/Assests/Hi.gif" width="29px">
+<img src="https://github.com/bajajanirudh/bajajanirudh/blob/main/Assests/Hi.gif" width="29px">
 I'm a Pre-final Year UG currently majoring in Computer Science and Engineering from IIT Jodhpur. I'm a competitive programmer, a Developer and Blockchain enthusiast. I'm an extrovert explorer, currently exploring many fields like Cryptography, Cybersecurity and Artificial Intelligence.
 
 Apart from this, I'm fond of solving problems that challenge my algorithmic skills, I'm looking forward to work with people where I can put my skills in the use and help the society to become a better version of itself.😃
