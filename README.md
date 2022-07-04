@@ -4,7 +4,7 @@
     <td><img src="https://profile-counter.glitch.me/bajajanirudh/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table>
-<img align="right" height="280" width="420" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="280" width="420" alt="" src="https://github.com/bajajanirudh/bajajanirudh/blob/main/Assests/coder.gif">
 
 ### Hey there, I'm Anirudh Bajaj 
 
