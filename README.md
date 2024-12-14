@@ -41,10 +41,7 @@ Explorer, problem-solver, and tech leader. I continuously strive to make a diffe
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
 
-## Find me around the web:
-
-<img src="https://i.pinimg.com/originals/1a/25/78/1a25782d8edd6f4f211bb418b604daaa.gif" width="24px">
-
+## Find me around the web: <img src="https://i.pinimg.com/originals/1a/25/78/1a25782d8edd6f4f211bb418b604daaa.gif" width="30px">
 - Do competitive programming at <a href="https://www.codechef.com/users/bajajaniruddh">CodeChef</a>, <a href="https://www.codeforces.com/profile/AnonymousH">Codeforces</a>📹✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/bajajanirudh/">LinkedIn</a> 💼
 
