@@ -7,9 +7,11 @@
 <img align="right" height="280" width="420" alt="" src="https://github.com/bajajanirudh/bajajanirudh/blob/main/Assests/coder.gif">
 
 ### <span style="display: flex; align-items: center;">Hey there, I'm Anirudh Bajaj  <img src="https://github.com/bajajanirudh/bajajanirudh/blob/main/Assests/Hi.gif" width="29px"> </span>
-I'm a Pre-final Year UG currently majoring in Computer Science and Engineering from IIT Jodhpur. I'm a competitive programmer, a Developer and Blockchain enthusiast. I'm an extrovert explorer, currently exploring many fields like Cryptography, Cybersecurity and Artificial Intelligence.
+I&apos;m working as a Software Development Lead at The Arena, with a proven track record in driving innovative solutions. I&apos;m an accomplished competitive programmer, developer, and blockchain enthusiast, I possess a unique ability to tackle complex challenges that push the boundaries of my algorithmic skills.
 
-Apart from this, I'm fond of solving problems that challenge my algorithmic skills, I'm looking forward to work with people where I can put my skills in the use and help the society to become a better version of itself.😃
+With a Bachelors of Technology from IIT Jodhpur in Computer Science and Engineering, I am skilled in software development, competitive programming and web3 technologies. I enjoy solving tough problems and am focused on improving efficiency and user experience. I am known for my teamwork and commitment to excellence. My aim is to use technology to make a positive impact and drive innovation that helps both businesses and society.
+
+Explorer, problem-solver, and tech leader. I continuously strives to make a difference.
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-lightgreen?style=flat-square&logo=Github&logoColor=black&link=https://bajajanirudh.github.io/)](https://bajajanirudh.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedInProfile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bajajanirudh/)](https://www.linkedin.com/in/bajajanirudh/)
