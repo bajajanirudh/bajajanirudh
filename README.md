@@ -6,9 +6,7 @@
 </table>
 <img align="right" height="280" width="420" alt="" src="https://github.com/bajajanirudh/bajajanirudh/blob/main/Assests/coder.gif">
 
-### Hey there, I'm Anirudh Bajaj 
-
-<img src="https://github.com/bajajanirudh/bajajanirudh/blob/main/Assests/Hi.gif" width="29px">
+### <span style="display: flex; align-items: center;">Hey there, I'm Anirudh Bajaj  <img src="https://github.com/bajajanirudh/bajajanirudh/blob/main/Assests/Hi.gif" width="29px"> </span>
 I'm a Pre-final Year UG currently majoring in Computer Science and Engineering from IIT Jodhpur. I'm a competitive programmer, a Developer and Blockchain enthusiast. I'm an extrovert explorer, currently exploring many fields like Cryptography, Cybersecurity and Artificial Intelligence.
 
 Apart from this, I'm fond of solving problems that challenge my algorithmic skills, I'm looking forward to work with people where I can put my skills in the use and help the society to become a better version of itself.😃
@@ -45,9 +43,6 @@ Apart from this, I'm fond of solving problems that challenge my algorithmic skil
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats]*
-
-[comment]: <> (![Anirudh's Github Stats]&#40;https://github-readme-stats.vercel.app/api?username=bajajanirudh&show_icons=true&theme=radical&#41;       [![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhamg&theme=radical&#41;]&#40;https://github.com/iamshubhamg/github-readme-stats&#41;)
-
 
 ## Find me around the web:
 
