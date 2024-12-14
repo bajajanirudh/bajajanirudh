@@ -20,7 +20,7 @@ Explorer, problem-solver, and tech leader. I continuously strives to make a diff
 ### About Me <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
 
 - 🔭 I’m currently working on Social Finance platform, implementing user-centric solutions.
-- 🌱 I’m currently learning <b>Blockchain Architecture and Decentralized Systems</b>
+- 🌱 I’m currently learning <b>Blockchain Architecture and Decentralized Systems.</b>
 - 👯 I’m looking to collaborate on <b>Blockchain and Cryptography</b>, willing to work with the individuals with whom I contribute to make the society a better version of itself.
 - 🤔 I'm eager to dive into emerging technologies and stay ahead of the curve as the world evolves!
 - 💬 Ask me about software development, team building and people management.
