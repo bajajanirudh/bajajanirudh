@@ -14,9 +14,6 @@ Apart from this, I'm fond of solving problems that challenge my algorithmic skil
 [![Portfolio](https://img.shields.io/badge/-Portfolio-lightgreen?style=flat-square&logo=Github&logoColor=black&link=https://bajajanirudh.github.io/)](https://bajajanirudh.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedinProfile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bajajanirudh/)](https://www.linkedin.com/in/bajajanirudh/)
 [![MAIL Badge](https://img.shields.io/badge/-bajaj.3@iitj.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bajaj.3@iitj.ac.in)](mailto:bajaj.3@iitj.ac.in)
-[![Leetcode Badge](https://img.shields.io/badge/-LeetcodeProfile-yellow?style=flat-square&logo=Leetcode&logoColor=black&link=https://leetcode.com/bajajanirudh/)](https://leetcode.com/bajajanirudh/)
-[![Codechef Badge](https://img.shields.io/badge/-CodechefProfile-lightblue?style=flat-square&logo=Codechef&logoColor=while&link=https://www.codechef.com/users/bajajaniruddh)](https://www.codechef.com/users/bajajaniruddh)
-[![Codeforces Badge](https://img.shields.io/badge/-CodeforcesProfile-lightgreen?style=flat-square&logo=Codechef&logoColor=while&link=https://codeforces.com/profile/AnonymousH)](https://codeforces.com/profile/AnonymousH)
 
 ### About Me <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
 
