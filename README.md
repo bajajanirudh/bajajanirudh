@@ -41,9 +41,6 @@ Explorer, problem-solver, and tech leader. I continuously strive to make a diffe
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
 
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats]*
-
 ## Find me around the web:
 
 <img src="https://i.pinimg.com/originals/1a/25/78/1a25782d8edd6f4f211bb418b604daaa.gif" width="24px">
