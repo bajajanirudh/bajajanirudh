@@ -13,7 +13,6 @@ With a Bachelors of Technology from IIT Jodhpur in Computer Science and Engineer
 
 Explorer, problem-solver, and tech leader. I continuously strive to make a difference.
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-lightgreen?style=flat-square&logo=Github&logoColor=black&link=https://bajajanirudh.github.io/)](https://bajajanirudh.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedInProfile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bajajanirudh/)](https://www.linkedin.com/in/bajajanirudh/)
 [![MAIL Badge](https://img.shields.io/badge/-bajajanirudh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aniruddhbajaj@gmail.com)](mailto:aniruddhbajaj@gmail.com)
 
