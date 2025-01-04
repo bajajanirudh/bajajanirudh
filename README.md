@@ -48,5 +48,3 @@ Explorer, problem-solver, and tech leader. I continuously strive to make a diffe
 ## Find me around the web: <img src="https://i.pinimg.com/originals/1a/25/78/1a25782d8edd6f4f211bb418b604daaa.gif" width="30px">
 - Do competitive programming at <a href="https://www.codechef.com/users/bajajaniruddh">CodeChef</a>, <a href="https://www.codeforces.com/profile/AnonymousH">Codeforces</a>📹✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/bajajanirudh/">LinkedIn</a> 💼
-
-If you found my profile interesting, do follow me :) 
