@@ -11,7 +11,7 @@ I&apos;m working as a Software Development Lead at The Arena, with a proven trac
 
 With a Bachelors of Technology from IIT Jodhpur in Computer Science and Engineering, I am skilled in software development, competitive programming and web3 technologies. I enjoy solving tough problems and am focused on improving efficiency and user experience. I am known for my teamwork and commitment to excellence. My aim is to use technology to make a positive impact and drive innovation that helps both businesses and society.
 
-Explorer, problem-solver, and tech leader. I continuously strive to make a difference.
+Explorer, problem-solver, and tech leader. I continuously strive to make a difference!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedInProfile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bajajanirudh/)](https://www.linkedin.com/in/bajajanirudh/)
 [![MAIL Badge](https://img.shields.io/badge/-bajajanirudh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aniruddhbajaj@gmail.com)](mailto:aniruddhbajaj@gmail.com)
