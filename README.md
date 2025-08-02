@@ -1,9 +1,3 @@
-<table>
-  <tr>
-    <td>Visitor no.</td>
-    <td><img src="https://profile-counter.glitch.me/bajajanirudh/count.svg" alt="vistor count" height="50" /></td>
-  </tr>
-</table>
 <img align="right" height="280" width="420" alt="" src="https://github.com/bajajanirudh/bajajanirudh/blob/main/Assests/coder.gif">
 
 ### <span style="display: flex; align-items: center;">Hey there, I'm Anirudh Bajaj  <img src="https://github.com/bajajanirudh/bajajanirudh/blob/main/Assests/Hi.gif" width="29px"> </span>
